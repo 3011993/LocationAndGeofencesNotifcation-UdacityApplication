@@ -1,0 +1,60 @@
+ize" parent="Base.Theme.MaterialComponents.Light.Dialog.FixedSize"/>
+    <style name="Theme.MaterialComponents.Light.Dialog.FixedSize.Bridge" parent="Base.Theme.MaterialComponents.Light.Dialog.Bridge">
+    <item name="windowFixedWidthMajor">@dimen/abc_dialog_fixed_width_major</item>
+    <item name="windowFixedWidthMinor">@dimen/abc_dialog_fixed_width_minor</item>
+    <item name="windowFixedHeightMajor">@dimen/abc_dialog_fixed_height_major</item>
+    <item name="windowFixedHeightMinor">@dimen/abc_dialog_fixed_height_minor</item>
+  </style>
+    <style name="Theme.MaterialComponents.Light.Dialog.MinWidth" parent="Base.Theme.MaterialComponents.Light.Dialog.MinWidth"/>
+    <style name="Theme.MaterialComponents.Light.Dialog.MinWidth.Bridge" parent="Base.Theme.MaterialComponents.Light.Dialog.Bridge">
+    <item name="windowMinWidthMajor">@dimen/abc_dialog_min_width_major</item>
+    <item name="windowMinWidthMinor">@dimen/abc_dialog_min_width_minor</item>
+  </style>
+    <style name="Theme.MaterialComponents.Light.DialogWhenLarge" parent="Base.Theme.MaterialComponents.Light.DialogWhenLarge">
+  </style>
+    <style name="Theme.MaterialComponents.Light.LargeTouch">
+    <item name="minTouchTargetSize">@dimen/mtrl_large_touch_target</item>
+  </style>
+    <style name="Theme.MaterialComponents.Light.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+    <style name="Theme.MaterialComponents.Light.NoActionBar.Bridge" parent="Theme.MaterialComponents.Light.Bridge">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+    <style name="Theme.MaterialComponents.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+    <style name="Theme.MaterialComponents.NoActionBar.Bridge" parent="Theme.MaterialComponents.Bridge">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+    <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
+    <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
+    <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="ThemeOverlay.AppCompat.DayNight.ActionBar">
+        <item name="colorControlNormal">?android:attr/textColorPrimary</item>
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView.ActionBar</item>
+    </style>
+    <style name="ThemeOverlay.AppCompat.Dialog" parent="Base.ThemeOverlay.AppCompat.Dialog"/>
+    <style name="ThemeOverlay.AppCompat.Dialog.Alert" parent="Base.ThemeOverlay.AppCompat.Dialog.Alert"/>
+    <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <style name="ThemeOverlay.Design.TextInputEditText" parent=""/>
+    <style name="ThemeOverlay.MaterialComponents" parent="ThemeOverlay.AppCompat"/>
+    <style name="ThemeOverlay.MaterialComponents.ActionBar" parent="ThemeOverlay.AppCompat.ActionBar"/>
+    <style name="ThemeOverlay.MaterialComponents.ActionBar.Primary" parent="">
+    <item name="android:textColorPrimary">?attr/colorOnPrimary</item>
+    <item name="android:textColorSecondary">@color/material_on_primary_emphasis_medium</item>
+    <item name="actionMenuTextColor">?attr/colorOnPrimary</item>
+    <item name="colorControlNormal">?attr/colorOnPrimary</item>
+    <!-- Used to tint the ActionMode background and preserve the underline. -->
+    <item name="android:colorBackground">?attr/colorPrimary</item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.ActionBar.Surface" parent="">
+    <item name="android:textColorPrimary">@color/material_on_surface_emphasis_high_type</item>
+    <item name="android:textColorSecondary">@color/material_on_surface_emphasis_medium</item>
+    <item name="actionMenuTextColor">@color/m

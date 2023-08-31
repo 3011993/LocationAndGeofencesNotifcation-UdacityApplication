@@ -1,0 +1,47 @@
+ialCalendarHeaderSelection"/>
+    <attr format="reference" name="materialCalendarHeaderTitle"/>
+    <attr format="reference" name="materialCalendarHeaderToggleButton"/>
+    <attr format="reference" name="materialCalendarStyle"/>
+    <attr format="reference" name="materialCalendarTheme"/>
+    <attr format="reference" name="materialCardViewStyle"/>
+    <attr format="reference" name="materialThemeOverlay"/>
+    <attr format="dimension" name="minTouchTargetSize"/>
+    <attr format="float" name="motionPathRotate"/>
+    <attr format="float" name="motionProgress"/>
+    <attr format="float" name="motionStagger"/>
+    <attr format="reference|string" name="motionTarget"/>
+    <attr format="reference" name="navigationViewStyle"/>
+    <attr format="enum" name="pathMotionArc">
+        <enum name="none" value="0"/>
+        <enum name="startVertical" value="1"/>
+        <enum name="startHorizontal" value="2"/>
+        <enum name="flip" value="3"/>
+    </attr>
+    <attr format="float" name="path_percent"/>
+    <attr format="float" name="perpendicularPath_percent"/>
+    <attr format="reference|enum" name="pivotAnchor">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr name="placeholder_emptyVisibility">
+        <enum name="visible" value="0"/>
+        <enum name="invisible" value="4"/>
+        <enum name="gone" value="8"/>
+    </attr>
+    <attr format="reference" name="popupMenuBackground"/>
+    <attr format="reference" name="recyclerViewStyle"/>
+    <attr format="color" name="rippleColor"/>
+    <attr format="color|reference" name="scrimBackground"/>
+    <attr format="reference" name="shapeAppearanceLargeComponent"/>
+    <attr format="reference" name="shapeAppearanceMediumComponent"/>
+    <attr format="reference" name="shapeAppearanceSmallComponent"/>
+    <attr format="reference" name="showMotionSpec"/>
+    <attr format="boolean" name="singleSelection"/>
+    <attr format="float" name="sizePercent"/>
+    <attr format="color" name="strokeColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="reference" name="tabStyle"/>
+    <attr format="reference" name="targetId"/>
+    <attr format="reference" name="textAppearanceBody1"/>
+    <attr format="reference" name="textAppearanceBody2"/>
+    <attr format="reference" name="textAppearanceButton"/>
+    <attr format="reference

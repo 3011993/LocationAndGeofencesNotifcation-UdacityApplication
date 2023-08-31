@@ -1,0 +1,34 @@
+
+    <string name="fui_idp_name_phone">Телефон</string>
+    <string name="fui_idp_name_twitter">Twitter</string>
+    <string name="fui_incorrect_code_dialog_body">Кôд није тачан. Пробајте поново.</string>
+    <string name="fui_invalid_email_address">Имејл адреса није тачна</string>
+    <string name="fui_invalid_phone_number">Унесите важећи број телефона</string>
+    <string name="fui_missing_email_address">Унесите имејл адресу да бисте наставили</string>
+    <string name="fui_missing_first_and_last_name">Унесите име и презиме.</string>
+    <string name="fui_name_hint">Име и презиме</string>
+    <string name="fui_next_default">Даље</string>
+    <string name="fui_no_internet" translation_descripition="User message shown when sign-in is attempted while offline.">Дошло је до мрежне грешке, проверите интернет везу.</string>
+    <string name="fui_password_hint">Лозинка</string>
+    <string name="fui_password_recovery_body">На овај имејл ћете добити упутства како да ресетујете лозинку.</string>
+    <string name="fui_phone_hint">Број телефона</string>
+    <string name="fui_privacy_policy">Политику приватности</string>
+    <string name="fui_progress_dialog_checking_accounts">Траже се постојећи налози…</string>
+    <string name="fui_progress_dialog_loading">Учитава се…</string>
+    <string name="fui_progress_dialog_sending">Шаље се…</string>
+    <string name="fui_progress_dialog_signing_in">Пријављивање…</string>
+    <string name="fui_progress_dialog_signing_up">Регистрација је у току…</string>
+    <string name="fui_required_field">Ово поље не може да буде празно.</string>
+    <string name="fui_resend_code">Поново пошаљи кôд</string>
+    <string name="fui_resend_code_in">Кôд ће бити поново послат за 0:%02d</string>
+    <string name="fui_sign_in_anonymously">Наставите као гост</string>
+    <string name="fui_sign_in_default">Пријави ме</string>
+    <string name="fui_sign_in_with_email">Пријави ме помоћу имејла</string>
+    <string name="fui_sign_in_with_facebook">Пријави ме помоћу Facebook-а</string>
+    <string name="fui_sign_in_with_github">Пријавите се помоћу GitHub-а</string>
+    <string name="fui_sign_in_with_google">Пријави ме помоћу Google-а</string>
+    <string name="fui_sign_in_with_phone">Пријави ме помоћу телефона</string>
+    <string name="fui_sign_in_with_phone_number">Пријавите се помоћу броја телефона</string>
+    <string name="fui_sign_in_with_twitter">Пријави ме помоћу Twitter-а</string>
+    <string name="fui_sms_terms_of_service">Ако додирнете „%1$s“, можда ћете послати SMS. Могу да вам буду наплаћени трошкови слања поруке и преноса података.</string>
+    <string name="fui_sms_terms_of_service_and_privacy_policy_extended">Ако додирнете „%1$s“, потврђујете да прихватате документе %2$s и %3$s. Можда ћете послати SMS. Могу да вам буду напла

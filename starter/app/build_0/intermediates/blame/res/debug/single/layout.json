@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_save_reminder.xml",
+        "source": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\src\\main\\res\\layout\\fragment_save_reminder.xml"
+    },
+    {
+        "merged": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_reminders.xml",
+        "source": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\src\\main\\res\\layout\\fragment_reminders.xml"
+    },
+    {
+        "merged": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\it_reminder.xml",
+        "source": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\src\\main\\res\\layout\\it_reminder.xml"
+    },
+    {
+        "merged": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_authentication.xml",
+        "source": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reminder_description.xml",
+        "source": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\src\\main\\res\\layout\\activity_reminder_description.xml"
+    },
+    {
+        "merged": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_select_location.xml",
+        "source": "D:\\Android\\nanodegree Projects\\Project4\\starter\\app\\src\\main\\res\\layout\\fragment_select_location.xml"
+    }
+]

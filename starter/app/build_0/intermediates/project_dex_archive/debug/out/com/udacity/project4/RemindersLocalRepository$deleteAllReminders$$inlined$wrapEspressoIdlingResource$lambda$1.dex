@@ -1,0 +1,24 @@
+ দেখে নিন।\n\u2022 আপনার ইনবক্সের স্পেস শেষ হয়ে গেছে কিনা এবং ইনবক্স সংক্রান্ত অন্যান্য সমস্যাগুলি একবার দেখে নিন।\n</string>
+    <string name="fui_email_link_wrong_device_header">এই ডিভাইস বা ব্রাউজারটি আলাদা।</string>
+    <string name="fui_email_link_wrong_device_message">যে ডিভাইস অথবা ব্রাউজারে আপনি সাইন-ইন প্রসেস শুরু করেছেন সেই একই ডিভাইস অথবা ব্রাউজার ব্যবহার করে লিঙ্কটি খোলার চেষ্টা করুন।</string>
+    <string name="fui_enter_confirmation_code">আমাদের পাঠানো ৬-সংখ্যার কোডটি লিখুন</string>
+    <string name="fui_error_email_does_not_exist">এই ইমেল অ্যাড্রেসটি আগে থেকে থাকা অ্যাকাউন্টের সাথে মিলছে না</string>
+    <string name="fui_error_invalid_password">পাসওয়ার্ডটি সঠিক নয়।</string>
+    <string name="fui_error_quota_exceeded">আপনার ফোন নম্বরটি যাচাই করতে সমস্যা হয়েছে</string>
+    <string name="fui_error_session_expired">এই কোডটি আর ব্যবহার করা যাবে না</string>
+    <string name="fui_error_too_many_attempts">এই ফোন নম্বরটি অনেকবার ব্যবহার করা হয়েছে</string>
+    <string name="fui_error_unknown">অজানা একটি সমস্যা হয়েছে।</string>
+    <string name="fui_idp_name_email">ইমেল আইডি</string>
+    <string name="fui_idp_name_facebook">Facebook</string>
+    <string name="fui_idp_name_github">Github</string>
+    <string name="fui_idp_name_google">Google</string>
+    <string name="fui_idp_name_phone">ফোন</string>
+    <string name="fui_idp_name_twitter">Twitter</string>
+    <string name="fui_incorrect_code_dialog_body">কোডটি ভুল। আবার চেষ্টা করুন।</string>
+    <string name="fui_invalid_email_address">ইমেল অ্যাড্রেসটি সঠিক নয়</string>
+    <string name="fui_invalid_phone_number">একটি সঠিক ফোন নম্বর লিখুন</string>
+    <string name="fui_missing_email_address">চালিয়ে যাওয়ার জন্য আপনার ইমেল অ্যাড্রেস লিখুন</string>
+    <string name="fui_missing_first_and_last_name">আপনার নাম এবং পদবি লিখুন।</string>
+    <string name="fui_name_hint">নাম ও পদবি</string>
+    <string name="fui_next_default">পরবর্তী</string>
+    <string name="fui_no_internet" translation_descripition="User message shown when sign-in is attempted while offline.">নেটওয়ার্কে সমস্যা, ইন্টারনেট কানেকশন দেখে নিন।<

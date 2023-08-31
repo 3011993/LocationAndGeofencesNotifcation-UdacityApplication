@@ -1,0 +1,28 @@
+��নি Google Play পরিষেবা সক্ষম না করা পর্যন্ত <ns1:g id="APP_NAME">%1$s</ns1:g> কাজ করবে না।"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play পরিষেবা সক্ষম করুন"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ইনস্টল করুন"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Google Play পরিষেবা ছাড়া <ns1:g id="APP_NAME">%1$s</ns1:g> চলবে না, যা আপনার ডিভাইসে অনুপস্থিত।"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play পরিষেবা পান"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play পরিষেবার উপলভ্যতা"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play পরিষেবার ত্রুটি"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Google Play পরিষেবাগুলির সাথে <ns1:g id="APP_NAME">%1$s</ns1:g> এর সমস্যা হচ্ছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Google Play পরিষেবা ছাড়া <ns1:g id="APP_NAME">%1$s</ns1:g> চলবে না, যেটি আপনার ডিভাইসে সমর্থিত নয়৷"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"আপডেট করুন"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"আপনি Google Play পরিষেবা আপডেট না করা পর্যন্ত <ns1:g id="APP_NAME">%1$s</ns1:g> চলবে না।"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play পরিষেবা আপডেট করুন"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play পরিষেবা ছাড়া <ns1:g id="APP_NAME">%1$s</ns1:g> চলবে না যা বর্তমানে আপডেট হচ্ছে।"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play পরিষেবার নতুন ভার্সন প্রয়োজন৷ খুব শীঘ্রই এটা নিজেই আপডেট হবে৷"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"ফোনে খুলুন"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"সাইন-ইন করুন"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google এর মাধ্যমে সাইন-ইন করুন"</string>
+    <string name="fui_accessibility_logo">অ্যাপের লোগো</string>
+    <string name="fui_auto_verified">ফোন নম্বরটি নিজে থেকে যাচাই করা হয়েছে</string>
+    <string name="fui_button_text_save">সেভ করুন</string>
+    <string name="fui_button_text_send">পাঠান</string>
+    <string name="fui_cancel">বাতিল করুন</string>
+    <string name="fui_confirm_recovery_body">আপনার পাসওয়ার্ড পুনরুদ্ধার করতে %1$s তে পাঠানো নির্দেশ অনুসরণ করুন।</string>
+    <string name="fui_continue">চালিয়ে যান</string>
+    <string name="fui_email_account_creation_error">ইমেল অ্যাকাউন্টটি রেজিস্টার করা যায়নি</string>
+    <string name="fui_email_hint">ইমেল</string>
+    <string name="fui_email_link_confirm_email_header">ইমেল আইডি কনফার্ম করুন</string>
+    <string name="fui_email_link_confirm_email_message">স�

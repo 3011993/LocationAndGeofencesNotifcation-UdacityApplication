@@ -1,0 +1,17 @@
+ring>
+    <string name="fui_progress_dialog_signing_in">प्रवेश हो रहा है…</string>
+    <string name="fui_progress_dialog_signing_up">साइन अप करना…</string>
+    <string name="fui_required_field">आप इसे खाली नहीं छोड़ सकते.</string>
+    <string name="fui_resend_code">कोड फिर से भेजें</string>
+    <string name="fui_resend_code_in">0:%02d में कोड फिर से भेजें</string>
+    <string name="fui_sign_in_anonymously">मेहमान के रूप में जारी रखें</string>
+    <string name="fui_sign_in_default">प्रवेश करें</string>
+    <string name="fui_sign_in_with_email">ईमेल से प्रवेश करें</string>
+    <string name="fui_sign_in_with_facebook">Facebook से प्रवेश करें</string>
+    <string name="fui_sign_in_with_github">GitHub के साथ साइन इन करें</string>
+    <string name="fui_sign_in_with_google">Google से प्रवेश करें</string>
+    <string name="fui_sign_in_with_phone">फ़ोन से प्रवेश करें</string>
+    <string name="fui_sign_in_with_phone_number">फ़ोन नंबर के साथ प्रवेश करें</string>
+    <string name="fui_sign_in_with_twitter">Twitter से प्रवेश करें</string>
+    <string name="fui_sms_terms_of_service">“%1$s” पर टैप करने पर, एक मैसेज (एसएमएस) भेजा जा सकता है. मैसेज और डेटा दरें लागू हो सकती हैं.</string>
+    <string name="fui_sms_terms_of_service_and_privacy_policy_extended">“%1$s” पर टैप करके, आप यह बताते हैं कि आप हमारी %2$s और %3$s को मंज़ूर करते हैं. एक मैसेज (ए

@@ -1,0 +1,25 @@
+de l\'acció no és vàlid. Això pot passar si el codi té un format incorrecte, ha caducat o ja s\'ha fet servir.</string>
+    <string name="fui_email_link_resend">Torna a enviar</string>
+    <string name="fui_email_link_trouble_getting_email_header">Tens problemes per rebre el correu electrònic?</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">Si els passos anteriors no t\'han servit d\'ajuda, pots tornar a enviar el correu electrònic. Tingues en compte que l\'enllaç del correu anterior es desactivarà.</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">Prova aquestes solucions habituals:\n\u2022 Comprova que el correu electrònic no s\'hagi marcat com a correu brossa ni s\'hagi filtrat.\n\u2022 Comprova la connexió a Internet.\n\u2022 Comprova que hagis escrit correctament la teva adreça electrònica.\n\u2022 Comprova que tinguis espai a la safata d\'entrada o qualsevol altre problema relacionat amb la configuració de la safata d\'entrada.\n</string>
+    <string name="fui_email_link_wrong_device_header">S\'ha detectat un dispositiu o navegador nou.</string>
+    <string name="fui_email_link_wrong_device_message">Prova d\'obrir l\'enllaç amb el mateix dispositiu o navegador on has començat el procés d\'inici de sessió.</string>
+    <string name="fui_enter_confirmation_code">Introdueix el codi de 6 dígits que s\'ha enviat al número</string>
+    <string name="fui_error_email_does_not_exist">Aquesta adreça electrònica no coincideix amb cap compte</string>
+    <string name="fui_error_invalid_password">La contrasenya no és correcta.</string>
+    <string name="fui_error_quota_exceeded">Hi ha hagut un problema en verificar el número de telèfon</string>
+    <string name="fui_error_session_expired">Aquest codi ja no és vàlid</string>
+    <string name="fui_error_too_many_attempts">Aquest número de telèfon s\'ha utilitzat massa vegades</string>
+    <string name="fui_error_unknown">S\'ha produït un error desconegut.</string>
+    <string name="fui_idp_name_email">Adreça electrònica</string>
+    <string name="fui_idp_name_facebook">Facebook</string>
+    <string name="fui_idp_name_github">GitHub</string>
+    <string name="fui_idp_name_google">Google</string>
+    <string name="fui_idp_name_phone">Telèfon</string>
+    <string name="fui_idp_name_twitter">Twitter</string>
+    <string name="fui_incorrect_code_dialog_body">El codi no és correcte. Torna-ho a provar.</string>
+    <string name="fui_invalid_email_address">Aquesta adreça electrònica no és correcta</string>
+    <string name="fui_invalid_phone_number">Introdueix un número de telèfon vàlid</string>
+    <string name="fui_missing_email_address">Introdueix l\'adreça electrònica per continuar</string>
+    <string name="fui_missing_first_and_last_name">Introdueix nom i cognoms.</string>

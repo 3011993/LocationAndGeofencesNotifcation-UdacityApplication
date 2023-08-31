@@ -1,0 +1,65 @@
+aterial_on_surface_emphasis_medium</item>
+    <item name="colorControlNormal">@color/material_on_surface_emphasis_medium</item>
+    <!-- Used to tint the ActionMode background and preserve the underline. -->
+    <item name="android:colorBackground">?attr/colorSurface</item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView" parent="">
+    <item name="colorControlActivated">?attr/colorPrimary</item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView.FilledBox">
+    <item name="autoCompleteTextViewStyle">
+      @style/Widget.MaterialComponents.AutoCompleteTextView.FilledBox
+    </item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView.FilledBox.Dense">
+    <item name="autoCompleteTextViewStyle">
+      @style/Widget.MaterialComponents.AutoCompleteTextView.FilledBox.Dense
+    </item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox">
+    <item name="autoCompleteTextViewStyle">
+      @style/Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox
+    </item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox.Dense">
+    <item name="autoCompleteTextViewStyle">
+      @style/Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox.Dense
+    </item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.BottomAppBar.Primary" parent="">
+    <item name="colorControlNormal">?attr/colorOnPrimary</item>
+    <item name="actionMenuTextColor">?attr/colorOnPrimary</item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.BottomAppBar.Surface" parent="">
+    <item name="colorControlNormal">@color/material_on_surface_emphasis_medium</item>
+    <item name="actionMenuTextColor">@color/material_on_surface_emphasis_medium</item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.Dialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:statusBarColor" ns2:targetApi="21">@android:color/transparent</item>
+    <item name="android:windowAnimationStyle">
+      @style/Animation.MaterialComponents.BottomSheetDialog
+    </item>
+    <item name="bottomSheetStyle">@style/Widget.MaterialComponents.BottomSheet.Modal</item>
+    <item name="materialButtonStyle">@style/Widget.MaterialComponents.Button</item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.Dark" parent="ThemeOverlay.AppCompat.Dark">
+    <item name="android:colorBackground">@color/design_dark_default_color_background</item>
+    <item name="colorOnBackground">@color/design_dark_default_color_on_background</item>
+    <item name="colorSurface">@color/design_dark_default_color_surface</item>
+    <item name="colorOnSurface">@color/design_dark_default_color_on_surface</item>
+    <item name="colorError">@color/design_dark_default_color_error</item>
+    <item name="colorOnError">@color/design_dark_default_color_on_error</item>
+  </style>
+    <style name="ThemeOverlay.MaterialComponents.Dark.ActionBar" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="ThemeOverlay.MaterialComponents.DayNight.BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.Light.BottomSheetDialog"/>
+    <style name="ThemeOverlay.MaterialComponents.Dialog" parent="Base.ThemeOverlay.MaterialComponents.Dialog"/>
+    <style name="ThemeOverlay.MaterialComponents.Dialog.Alert" parent="Base.ThemeOverlay.MaterialComponents.Dialog.Alert"/>
+    <style name="ThemeOverlay.MaterialComponents.Light" parent="ThemeOverlay.AppCompat.Light">
+    <item name="android:colorBackground">@color/design_default_color_background</item>
+    <item name="colorOnBackground">@color/design_default_color_on_background</item>
+    <item name="colorSurface">@color/design_default_color_surface</item>
+    <item name="colorOnSurface">@color/design_default_color_on_surface</item>
+    <item name="colorError">@color/design_default_color_error</item>
+    <item name="colorOnError">@color/design_default_color_on_error</item>
+  </style>

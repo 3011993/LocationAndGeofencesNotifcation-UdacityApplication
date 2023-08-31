@@ -1,0 +1,7 @@
+#Tue Oct 11 03:47:40 EET 2022
+base.1=D\:\\Android\\nanodegree Projects\\Project4\\starter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=D\:\\Android\\nanodegree Projects\\Project4\\starter\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,26 @@
+_in">Torna a enviar el codi d\'aquí a 0:%02d</string>
+    <string name="fui_sign_in_anonymously">Continua com a convidat</string>
+    <string name="fui_sign_in_default">Inicia la sessió</string>
+    <string name="fui_sign_in_with_email">Inicia la sessió amb l\'adreça electrònica</string>
+    <string name="fui_sign_in_with_facebook">Inicia la sessió amb Facebook</string>
+    <string name="fui_sign_in_with_github">Inicia la sessió amb GitHub</string>
+    <string name="fui_sign_in_with_google">Inicia la sessió amb Google</string>
+    <string name="fui_sign_in_with_phone">Inicia la sessió amb el telèfon</string>
+    <string name="fui_sign_in_with_phone_number">Inicia la sessió amb el número de telèfon</string>
+    <string name="fui_sign_in_with_twitter">Inicia la sessió amb Twitter</string>
+    <string name="fui_sms_terms_of_service">En tocar %1$s, és possible que s\'enviï un SMS. Es poden aplicar tarifes de dades i missatges.</string>
+    <string name="fui_sms_terms_of_service_and_privacy_policy_extended">En tocar %1$s, acceptes les nostres %2$s i la nostra %3$s. És possible que s\'enviï un SMS. Es poden aplicar tarifes de dades i missatges.</string>
+    <string name="fui_terms_of_service">Condicions del servei</string>
+    <string name="fui_title_confirm_recover_password">Comprova el correu electrònic</string>
+    <string name="fui_title_recover_password_activity">Recupera la contrasenya</string>
+    <string name="fui_title_register_email">Registra\'t</string>
+    <string name="fui_tos_and_pp">En continuar, acceptes les nostres %1$s i la nostra %2$s.</string>
+    <string name="fui_tos_and_pp_footer">%1$s \u00A0 \u00A0 %2$s</string>
+    <string name="fui_trouble_signing_in">No pots iniciar la sessió?</string>
+    <string name="fui_verify_phone_number">Verifica el número de telèfon</string>
+    <string name="fui_verify_phone_number_title">Introdueix el número de telèfon</string>
+    <string name="fui_verify_your_phone_title">Verifica el número de telèfon</string>
+    <string name="fui_verifying">S\'està verificant…</string>
+    <string name="fui_welcome_back_email_header">Benvingut de nou!</string>
+    <string name="fui_welcome_back_email_link_header">Ja tens un compte\n</string>
+    <string name="fui_welcome_back_email_link_prompt_body">Ja has utilitzat l\'adreça electrònica %1$s. Pots connectar el compte que tens a %2$s amb %1$s iniciant la sessió amb l\'enllaç de correu electrònic que figura a continuació.\n\nPerquè el compte que tens a %2$s es connecti amb aquesta adreça electrònica, has d\'obrir l\'enllaç al mateix dispositiu o na
